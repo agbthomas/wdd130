@@ -5,7 +5,7 @@
 }
 nav a {
     text-align: center;
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
 }
 #hero-msg h1, #hero-msg h4 {
@@ -21,10 +21,10 @@ main section {
     height: 725px
 }
 body {
-    background-color: #967b7b;
+    background-color: #dddcff;
 }
 header {
-    background-color: rgba(20,30,13 .7);
+    background-color: #4164ff;
 }
 nav a:hover {
     background-color: rgb(241, 235, 235);
@@ -40,17 +40,17 @@ nav a:hover {
     color: #000000;
 }
 #background {
-    background-color: aquamarine;
+    background-color: rgb(107, 43, 43);
 }
 .msg {
-    background-color: aquamarine;
+    background-color: #4164ff;
 }
 footer {
-    background-color: burlywood;
+    background-color: rgb(74, 116, 255);
     color: beige;
 }
 .home-title{
-    color: beige;
+    color: rgb(29, 29, 26);
 }
 h4 {
     color: beige;
@@ -67,6 +67,12 @@ footer a {
 }
 footer a:hover {
     color: beige;
+}
+.logo {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;
 }
 .icon {
     width: 80px
