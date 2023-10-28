@@ -70,7 +70,7 @@ nav {
     color: #000000;
 }
 #background {
-    background-color: rgb(107, 43, 43);
+    background-color: rgb(185, 187, 203);
     height: 725px;
     grid-row: 4/9;
     grid-column: 1/11;
