@@ -10,7 +10,7 @@ header {
     grid-template-columns: 150px auto;
 }
 h1 {
-    font-family: 'Roboto';
+    font-family: Roboto, 'Lucida Sans', Arial;
 }
 #content {
     text-align: center;
@@ -224,7 +224,7 @@ footer p a:hover {
   padding-left: 30px;
 }
 .slideshow-container1 {
-    max-width: 100%;
+    max-width:auto;
     max-height:100%;
     position: relative;
     
@@ -236,7 +236,8 @@ footer p a:hover {
 /* Hide the images by default */
 .mySlides {
   display:contents;
-  width: 100%;
+  width:auto;
+
   }
 
 /* Next & previous buttons */
