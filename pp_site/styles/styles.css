@@ -141,7 +141,7 @@ body {
 }
 #projectfiles {
     /* margin-right: auto; */
-    grid-column:4/6;
+    grid-column:1/2;
     grid-row:1/4;
     padding-left: 30px;
 }
@@ -252,7 +252,7 @@ footer p a:hover {
   padding-left: 30px;
 }
 .slideshow-container1 {
-    max-width:fit-content;
+    max-width: 1000px;
     max-height:100%;
     position: relative;
     
